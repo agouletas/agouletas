@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/header.svg" alt="Your Name — ML engineer, medical image analysis" width="100%">
+  <img src="header.svg" alt="Andreas Gouletas — Machine Learning engineer" width="100%">
 
 
 <p align="center">
