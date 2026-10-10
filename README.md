@@ -7,11 +7,6 @@
 </p
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-handle"><img src="https://www.linkedin.com/in/andreas-gouletas-2832b3152/" alt="LinkedIn"></a>
-  <a href="mailto:an.gouletas@gmail.com"><img src="https://img.shields.io/badge/Email-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
 Hi! I am an MSc student in Image Analysis and Machine Learning, interested in deep learning for medical image segmentation, image enhancement and clinical prediction
 
 - 🔬 **Currently:** *I am building an Assisted segmentation platform*
